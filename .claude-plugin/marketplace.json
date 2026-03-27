@@ -1,0 +1,22 @@
+{
+  "name": "yashwant-plugin",
+  "owner": {
+    "name": "yashwant1999"
+  },
+  "metadata": {
+    "description": "Team Claude Code plugin with Flutter/Dart code review skill"
+  },
+  "plugins": [
+    {
+      "name": "yashwant-plugin",
+      "source": ".",
+      "description": "Flutter/Dart code review skill for the Heidi team",
+      "version": "1.0.0",
+      "author": {
+        "name": "yashwant1999"
+      },
+      "license": "MIT",
+      "keywords": ["flutter", "dart", "code-review"]
+    }
+  ]
+}
