@@ -1,0 +1,13 @@
+{
+  "name": "yashwant-plugin",
+  "description": "Team Claude Code plugin with Flutter/Dart code review skill",
+  "version": "1.0.0",
+  "author": {
+    "name": "Yashwant",
+    "email": ""
+  },
+  "homepage": "https://github.com/yashwant1999/yashwant-plugin",
+  "repository": "https://github.com/yashwant1999/yashwant-plugin",
+  "license": "MIT",
+  "keywords": ["flutter", "dart", "code-review", "heidi"]
+}
