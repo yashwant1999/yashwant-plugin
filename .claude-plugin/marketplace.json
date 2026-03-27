@@ -9,7 +9,11 @@
   "plugins": [
     {
       "name": "yashwant-plugin",
-      "source": ".",
+      "source": {
+        "source": "github",
+        "repo": "yashwant1999/yashwant-plugin",
+        "ref": "main"
+      },
       "description": "Flutter/Dart code review skill for the Heidi team",
       "version": "1.0.0",
       "author": {
